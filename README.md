@@ -134,6 +134,11 @@ Use tools like:
 <img width="1919" height="1079" alt="Screenshot 2026-04-06 123545" src="https://github.com/user-attachments/assets/551653fb-3a1d-4c12-8fc1-c925341bd7cd" />
 
 <img width="1919" height="1079" alt="Screenshot 2026-04-06 123539" src="https://github.com/user-attachments/assets/bd514145-a36f-423d-9ea1-74d1b386f01f" />
+<img width="1895" height="1079" alt="image" src="https://github.com/user-attachments/assets/8f32a5bb-2884-4d89-8d00-e96b6a08812e" />
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/778ad134-dcd3-4e75-a55b-21060eb47a49" />
+<img width="1760" height="1079" alt="image" src="https://github.com/user-attachments/assets/6b2d1707-0d76-4baa-bcd6-9f13f4374826" />
+
+
 
 ## 👨‍💻 Author
 
